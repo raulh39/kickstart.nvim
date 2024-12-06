@@ -3,3 +3,4 @@
 ## Differences
 
 * Removed `lazy-lock.json` from `.gitignore` file
+* Removed doc and .github directories
